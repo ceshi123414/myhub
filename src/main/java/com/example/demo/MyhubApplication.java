@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyhubApplication {
 
 	public static void main(String[] args) {
-		System.out.println("杀杀杀111112222222111");
+		System.out.println("杀杀杀11111222222211111");
 		SpringApplication.run(MyhubApplication.class, args);
 	}
 
